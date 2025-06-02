@@ -19,14 +19,18 @@
 </p>
 
 <p align="center">
-    Episódio 001 - RH 4.0 Podcast
+    Podcast - RH 4.0
 </p>
 
 <div align="center">
-    <audio controls title="Episódio 001 - RH 4.0 Podcast" preload="none"  autoplay="false" loop="false">
-        <source src="../output/Episódio 001 - RH 4.0 Podcast.mp3" type="audio/mp3">
+    <audio controls title="Podcast - RH 4.0" preload="none"  autoplay="false" loop="false">
+        <source src="./output/Episódio 001 - RH 4.0 Podcast.mp3" type="audio/mp3">
     </audio>
 </div>
+
+<p align="center">
+    <a href="./output/Episódio 001 - RH 4.0 Podcast.mp3">▶️ Ouça o Episódio 001</a>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -87,7 +91,7 @@ Utilizei as ideias dos prompts dentro do link do `Notion` fornecido na parte de 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="">
+        href="https://www.linkedin.com/in/rntrybusy/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
