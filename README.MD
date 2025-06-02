@@ -1,9 +1,13 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    style="width: 300px; border-radius: 50%; object-fit: cover;"
-/>
-</p>
+<div style="width:75%; display: flex; flex-direction: column; align-items: center; margin: auto;">
+    <img 
+        src="./assets/cover.png"
+        style="width: 300px; object-fit: cover;"
+    />
+    <p>Episódio 001 - RH 4.0 Podcast</p>
+    <audio controls title="Episódio 001 - RH 4.0 Podcast" preload="none"  autoplay="false" loop="false">
+        <source src="../output/Episódio 001 - RH 4.0 Podcast.mp3" type="audio/mp3">
+    </audio>
+</div>
 
 <p align="center">
 <a href="https://dio.me/">
@@ -17,18 +21,6 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="../assets/cover.png" style="width: 300px; object-fit: cover;" />
-    <p>Episódio 001 - RH 4.0 Podcast</p>
-    <audio controls title="Episódio 001 - RH 4.0 Podcast" preload="none"  autoplay="false" loop="false">
-        <source src="../output/Episódio 001 - RH 4.0 Podcast.mp3" type="audio/mp3">
-    </audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
